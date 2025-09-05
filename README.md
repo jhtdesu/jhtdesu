@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm jhtdesu!
 
-<!--
-**jhtdesu/jhtdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer
 
-Here are some ideas to get you started:
+Passionate about building scalable applications and bringing ideas to life through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Node.js
+- React
+- JavaScript
+- Docker
+- Java & Spring Boot
+
+### 👤 About Me
+_A short bio goes here. Update when ready!_
+
+### 🌐 Find Me Online
+- [GitHub](https://github.com/jhtdesu)
+<!-- Add your other social/media links here (LinkedIn, Twitter, etc.) -->
+
+---
+
+_Thanks for stopping by!_
