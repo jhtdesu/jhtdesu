@@ -1,5 +1,6 @@
 <body>
-  <p align="center">Jhtdesu</p>
+  <p align="center">Welcome to my profile!</p>
+  <hr>
   <div align="center">
     <a>
       <img src="https://lanyard.kyrie25.dev/api/453518703598764043?showBanner=true&imgStyle=square" />
@@ -8,4 +9,5 @@
   </div>
   <br>
   <p align="center">From Vietnam with love 💖</p>
+  <hr>
 </body>
