@@ -1,8 +1,11 @@
 <body>
+  <p align="center">Jhtdesu</p>
   <div align="center">
-    <p>Jhtdesu</p>
     <a>
-      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" />
+      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?showBanner=true&imgStyle=square" />
     </a>
+      <img  src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="200" />
   </div>
+  <br>
+  <p align="center">From Vietnam with love 💖</p>
 </body>
