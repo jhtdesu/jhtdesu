@@ -1,9 +1,9 @@
 <body>
-  <p align="center">Welcome to my profile!</p>
+  <p align="center">Welcome to my <b>profile</b>!</p>
   <hr>
   <div align="center">
     <a>
-      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?showBanner=true&imgStyle=square" />
+      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?gradient=E63C80-FFFFFF&showBanner=true&waveColor=F70767&imgStyle=square&imgBorderRadius=20px" />
     </a>
       <img  src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="200" />
   </div>
