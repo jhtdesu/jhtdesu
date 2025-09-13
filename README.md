@@ -1,5 +1,10 @@
 <body>
-  <p align="center">Welcome to my <b>profile</b>!</p>
+  <div align="center">
+    <p>Welcome to my <b>profile</b>!</p>
+    <a>
+      <img width=100 src="https://i.imgur.com/fXYKU5q.png"/>
+    </a>
+  </div>
   <hr>
   <div align="center">
     <a>
