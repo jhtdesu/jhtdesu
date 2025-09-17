@@ -14,6 +14,6 @@
       <img  src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="200" />
   </div>
   <br>
-  <p align="center">From Vietnam with love 💖</p>
+  <h2 align="center">From Vietnam with love 💖</h2>
   <hr>
 </body>
