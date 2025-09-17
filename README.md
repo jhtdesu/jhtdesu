@@ -1,6 +1,7 @@
 <body>
   <div align="center">
     <p>Welcome to my <b>profile</b>!</p>
+    <p>I swear i'll write this someday just too lazy rn -.- </p>
     <a>
       <img width=100 src="https://i.imgur.com/fXYKU5q.png"/>
     </a>
