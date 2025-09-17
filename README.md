@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1>I'm <i>Jhtdesu</i>, welcome to my profile!</h1>
+    <h1>I'm <a href="https://jhtdesu.me/"><i>Jhtdesu</i></a>, welcome to my profile!</h1>
     <p>I swear i'll write this someday just too lazy rn -.- </p>
     <a href="">
       <img width=100 src="https://i.imgur.com/fXYKU5q.png"/>
