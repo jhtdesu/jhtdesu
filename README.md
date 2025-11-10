@@ -8,13 +8,12 @@
   </div>
   <hr>
   <div align="center">
-    <a href="https://discord.com/invite/mJtsHWEQAg">
-      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?gradient=E63C80-FFFFFF&showBanner=true&waveColor=F70767&imgStyle=square&imgBorderRadius=20px" />
-    </a>
-      <img  src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="200" />
+      <img src="https://lanyard.kyrie25.dev/api/453518703598764043?gradient=E63C80-FFFFFF&showBanner=true&waveColor=F70767&imgStyle=square&imgBorderRadius=20px&borderRadius=20" />
+      <img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="198"/>
     <br>
     <br>
       <div align="center">
+        <p>Making my button</p>
         <a href ="https://jhtdesu.me">
         <img src="88x31-1.png"/>
         </a>
